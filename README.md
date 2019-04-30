@@ -7,4 +7,4 @@
  - Bootstrap  
  - Js  
  - animate.js & Animate On Scroll Library (AOS)
-
+ - Gulp
